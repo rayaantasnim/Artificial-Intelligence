@@ -42,7 +42,7 @@ To deploy and run the enterprise AI/ML suite locally within an isolated virtuali
 
 ```bash
 # 1. Clone the enterprise repository
-git clone [https://github.com.git](https://github.com.git)
+git clone [https://github.com/rayaantasnim/Artificial-Intelligence.git](https://github.com.git)
 cd enterprise-aiml-suite
 
 # 2. Initialize and activate Python virtual environment
